@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/installmentmart/booking.installmentmart.com
+    - export DEPLOYPATH=/home/booking.installmentmart.com
     - /bin/cp * $DEPLOYPATH
